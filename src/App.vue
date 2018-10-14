@@ -194,7 +194,7 @@ table {
           border-top-right-radius: 0;
           border-bottom-right-radius: 0;
           border-right: none;
-          left: 0px;
+          left: 4px;
         }
         select {
           width: 100px;
